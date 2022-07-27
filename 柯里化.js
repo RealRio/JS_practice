@@ -17,9 +17,9 @@
 
 //实现add（10，5）（2）
 
-function curryingAdd() {
+function curryingAdd(...args) {
     // 第一次执行时，定义一个数组专门用来存储所有的参数
-    let _args = Array.prototype.slice.call(arguments);
+    let _args =[...args];
     // 在内部声明一个函数，利用闭包的特性保存_args并收集所有的参数值
     let _adder = function () {
       _args.push(...arguments);
@@ -27,11 +27,8 @@ function curryingAdd() {
     };
 
     _adder.toString = function () {
-      return _args.reduce(function (a, b) {
-        return a + b;
-      });
+      return _args.reduce((a, b) =>a+b );
     }
-
     return _adder;
   }
 
