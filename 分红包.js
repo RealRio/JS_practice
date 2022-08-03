@@ -13,6 +13,8 @@ function divide(sum,n){
     return res;
 }
 console.log(divide(200,20));
+
+//下一个排列
 // var nextPermutation = function(nums) {
 //     for(let i=nums.length-1;i>=0;i--)
 //         for(let j=nums.length-1;j>i;j--){
