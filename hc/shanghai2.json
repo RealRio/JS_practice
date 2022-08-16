@@ -1,0 +1,1698 @@
+{
+    "code": 0,
+    "data": {
+        "job_post_list": [
+            {
+                "id": "7127929773636405512",
+                "title": "前端开发工程师-基础架构",
+                "sub_title": "",
+                "description": "团队介绍：字节跳动基础架构团队主要负责公司云基础建设，支撑着字节跳动旗下多款APP产品，如抖音、今日头条、番茄小说、西瓜视频、飞书、剪映等，同时也负责支持火山引擎公有云业务。迄今为止，我们通过云技术管理着百万量级的服务器构成的超大数据中心；我们通过字节深度优化的Kubernetes管理超过千万容器实例支持10万+微服务；我们还通过丰富的存储产品矩阵，如NewSQL、NoSQL、云存储等治理EB级的数据资产；我们积极拥抱开源和创新的软硬件架构，致力于构建业界领先的云基础设施，为整个公司的业务和客户发展保驾护航。我们热切期待对技术有追求、对大型系统有深刻见解的同学加入基础架构团队一起构建基础设施系统。\n\n1、负责公有云、混合云等云产品业务前端开发工作；\n2、参与通用组件、中后台建站、研发效能等工程化建设；\n3、深入发掘和分析业务需求，撰写技术方案和系统实现。",
+                "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、熟悉HTML、CSS、JS常用前端技术栈，了解 Vue或者React、Koa 等应用框架；\n3、良好的沟通和团队协作能力、热爱技术、责任心强、能推动技术框架的落地使用。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_125",
+                    "name": "上海",
+                    "en_name": "Shanghai",
+                    "location_type": null,
+                    "i18n_name": "上海",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659600545000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "A7626",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "location_type": null,
+                        "i18n_name": "上海",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7127929773636405512",
+                    "job_id": "7127929953114982693",
+                    "title": "前端开发工程师-基础架构",
+                    "sub_title": "",
+                    "address_id": "860",
+                    "address": "中国大陆上海上海市闵行区宜山路1999号科技绿洲三期24号楼，邮编：200030 ",
+                    "city": {
+                        "city_code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "i18n_name": "上海"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：字节跳动基础架构团队主要负责公司云基础建设，支撑着字节跳动旗下多款APP产品，如抖音、今日头条、番茄小说、西瓜视频、飞书、剪映等，同时也负责支持火山引擎公有云业务。迄今为止，我们通过云技术管理着百万量级的服务器构成的超大数据中心；我们通过字节深度优化的Kubernetes管理超过千万容器实例支持10万+微服务；我们还通过丰富的存储产品矩阵，如NewSQL、NoSQL、云存储等治理EB级的数据资产；我们积极拥抱开源和创新的软硬件架构，致力于构建业界领先的云基础设施，为整个公司的业务和客户发展保驾护航。我们热切期待对技术有追求、对大型系统有深刻见解的同学加入基础架构团队一起构建基础设施系统。\n\n1、负责公有云、混合云等云产品业务前端开发工作；\n2、参与通用组件、中后台建站、研发效能等工程化建设；\n3、深入发掘和分析业务需求，撰写技术方案和系统实现。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、熟悉HTML、CSS、JS常用前端技术栈，了解 Vue或者React、Koa 等应用框架；\n3、良好的沟通和团队协作能力、热爱技术、责任心强、能推动技术框架的落地使用。",
+                    "min_salary": 10,
+                    "max_salary": 15,
+                    "currency": 1,
+                    "head_count": 10,
+                    "crator_id": "6941172969393620488",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6751304482983790091",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659600545000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302982920",
+                        "name": "2-1",
+                        "en_name": "2-1",
+                        "i18n_name": "2-1",
+                        "active_status": 1,
+                        "order": 11
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "A7626",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118404000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "860",
+                            "name": "中国大陆上海上海市闵行区宜山路1999号科技绿洲三期24号楼，邮编：200030 ",
+                            "en_name": "宜山路1999号科技绿洲三期24号楼, Minhang, Shanghai, Shanghai, Chinese mainland, 200030 ",
+                            "district": {
+                                "district_code": "DS_215",
+                                "name": "闵行区",
+                                "en_name": "Minhang",
+                                "i18n_name": "闵行区"
+                            },
+                            "city": {
+                                "city_code": "CT_125",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "state": {
+                                "state_code": "ST_47",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆上海上海市闵行区宜山路1999号科技绿洲三期24号楼，邮编：200030 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_125",
+                            "name": "上海",
+                            "en_name": "Shanghai",
+                            "i18n_name": "上海"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7127591811942959368",
+                "title": "前端开发工程师-客服平台",
+                "sub_title": "",
+                "description": "团队介绍：客服平台团队，负责字节跳动全球客服业务平台的设计研发工作，打造支撑字节跳动多业务线的客服中台，建设提供极致体验的多场景客服系统。让用户从字节系产品一站式解决问题，提升用户满意度，助力核心产品线保护用户留存。核心工作主要包括：1、引入AI技术，为海量级别端内用户打造智能客服产品，帮助用户更快解决问题，提升用户体验；2、为公司大量客服提供统一客服工作台、工具等能力，提升服务效率、降低服务成本；3、基于海量用户反馈，挖掘高价值建议，识别高风险问题，驱动业务改进，保障平台安全。\n\n1、负责抖音/直播/剪映等产品的前端技术开发工作，包括移动端产品以及PC端产品；\n2、完成用户功能设计和开发，确保浏览器或其他终端设备兼容性；\n3、通过技术手段，优化前端性能，提升用户体验；\n4、设计研发通用组件、工具和类库，提升开发质量和效率。",
+                "requirement": "1、2023届获得本科及以上学历，计算机、通信和电子信息科学、数学等相关专业；\n2、具备良好的计算机基础，熟悉常用的数据结构和算法，并熟练使用至少一门编程语言完成代码编写；\n3、有兴趣深入学习前端技术开发和了解用户交互体验；\n4、熟练使用HTML(5)/CSS(3)/JS等前端技术完成页面布局和交互开发；\n5、熟悉使用Vue/React等前端框架或者具备Web项目开发经验的同学优先；\n6、积极乐观，责任心强，具备良好的沟通协作和逻辑思维能力以及服务意识。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_125",
+                    "name": "上海",
+                    "en_name": "Shanghai",
+                    "location_type": null,
+                    "i18n_name": "上海",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659533550000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "D7680",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "location_type": null,
+                        "i18n_name": "上海",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7127591811942959368",
+                    "job_id": "7127591728836167972",
+                    "title": "前端开发工程师-客服平台",
+                    "sub_title": "",
+                    "address_id": "1339",
+                    "address": "中国大陆上海上海市闵行区田林路888弄科技绿洲10号楼，邮编：200000 ",
+                    "city": {
+                        "city_code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "i18n_name": "上海"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：客服平台团队，负责字节跳动全球客服业务平台的设计研发工作，打造支撑字节跳动多业务线的客服中台，建设提供极致体验的多场景客服系统。让用户从字节系产品一站式解决问题，提升用户满意度，助力核心产品线保护用户留存。核心工作主要包括：1、引入AI技术，为海量级别端内用户打造智能客服产品，帮助用户更快解决问题，提升用户体验；2、为公司大量客服提供统一客服工作台、工具等能力，提升服务效率、降低服务成本；3、基于海量用户反馈，挖掘高价值建议，识别高风险问题，驱动业务改进，保障平台安全。\n\n1、负责抖音/直播/剪映等产品的前端技术开发工作，包括移动端产品以及PC端产品；\n2、完成用户功能设计和开发，确保浏览器或其他终端设备兼容性；\n3、通过技术手段，优化前端性能，提升用户体验；\n4、设计研发通用组件、工具和类库，提升开发质量和效率。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机、通信和电子信息科学、数学等相关专业；\n2、具备良好的计算机基础，熟悉常用的数据结构和算法，并熟练使用至少一门编程语言完成代码编写；\n3、有兴趣深入学习前端技术开发和了解用户交互体验；\n4、熟练使用HTML(5)/CSS(3)/JS等前端技术完成页面布局和交互开发；\n5、熟悉使用Vue/React等前端框架或者具备Web项目开发经验的同学优先；\n6、积极乐观，责任心强，具备良好的沟通协作和逻辑思维能力以及服务意识。",
+                    "min_salary": 20,
+                    "max_salary": 40,
+                    "currency": 1,
+                    "head_count": 10,
+                    "crator_id": "6851205827567568397",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6815849266939069959",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659533550000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "D7680",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118412000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "1339",
+                            "name": "中国大陆上海上海市闵行区田林路888弄科技绿洲10号楼，邮编：200000 ",
+                            "en_name": "田林路888弄科技绿洲10号楼, Minhang, Shanghai, Shanghai, Chinese mainland, 200000 ",
+                            "district": {
+                                "district_code": "DS_215",
+                                "name": "闵行区",
+                                "en_name": "Minhang",
+                                "i18n_name": "闵行区"
+                            },
+                            "city": {
+                                "city_code": "CT_125",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "state": {
+                                "state_code": "ST_47",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆上海上海市闵行区田林路888弄科技绿洲10号楼，邮编：200000 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_125",
+                            "name": "上海",
+                            "en_name": "Shanghai",
+                            "i18n_name": "上海"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7127591723019323678",
+                "title": "前端开发工程师-抖音/抖音火山版/剪映/直播",
+                "sub_title": "",
+                "description": "团队介绍：互娱研发部门负责抖音、抖音火山版、直播、剪映等多款产品的研发，截止2020年8月，抖音连同抖音火山版在内，日活用户超6亿，并继续保持高速增长。加入我们，你会支持包括但不限于上述产品的研发和相关架构工作，每一行代码都能服务亿万用户。\n\n1、负责抖音/直播/剪映等产品的前端技术开发工作，包括移动端产品以及PC端产品；\n2、完成用户功能设计和开发，确保浏览器或其他终端设备兼容性；\n3、通过技术手段，优化前端性能，提升用户体验；\n4、设计研发通用组件、工具和类库，提升开发质量和效率。",
+                "requirement": "1、2023届获得本科及以上学历，计算机、通信和电子信息科学、数学等相关专业；\n2、具备良好的计算机基础，熟悉常用的数据结构和算法，并熟练使用至少一门编程语言完成代码编写；\n3、有兴趣深入学习前端技术开发和了解用户交互体验；\n4、熟练使用HTML(5)/CSS(3)/JS等前端技术完成页面布局和交互开发；\n5、熟悉使用Vue/React等前端框架或者具备Web项目开发经验的同学优先；\n6、积极乐观，责任心强，具备良好的沟通协作和逻辑思维能力以及服务意识。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_125",
+                    "name": "上海",
+                    "en_name": "Shanghai",
+                    "location_type": null,
+                    "i18n_name": "上海",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659533110000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "X4282",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "location_type": null,
+                        "i18n_name": "上海",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7127591723019323678",
+                    "job_id": "7127590913727760654",
+                    "title": "前端开发工程师-抖音/抖音火山版/剪映/直播",
+                    "sub_title": "",
+                    "address_id": "1339",
+                    "address": "中国大陆上海上海市闵行区田林路888弄科技绿洲10号楼，邮编：200000 ",
+                    "city": {
+                        "city_code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "i18n_name": "上海"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：互娱研发部门负责抖音、抖音火山版、直播、剪映等多款产品的研发，截止2020年8月，抖音连同抖音火山版在内，日活用户超6亿，并继续保持高速增长。加入我们，你会支持包括但不限于上述产品的研发和相关架构工作，每一行代码都能服务亿万用户。\n\n1、负责抖音/直播/剪映等产品的前端技术开发工作，包括移动端产品以及PC端产品；\n2、完成用户功能设计和开发，确保浏览器或其他终端设备兼容性；\n3、通过技术手段，优化前端性能，提升用户体验；\n4、设计研发通用组件、工具和类库，提升开发质量和效率。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机、通信和电子信息科学、数学等相关专业；\n2、具备良好的计算机基础，熟悉常用的数据结构和算法，并熟练使用至少一门编程语言完成代码编写；\n3、有兴趣深入学习前端技术开发和了解用户交互体验；\n4、熟练使用HTML(5)/CSS(3)/JS等前端技术完成页面布局和交互开发；\n5、熟悉使用Vue/React等前端框架或者具备Web项目开发经验的同学优先；\n6、积极乐观，责任心强，具备良好的沟通协作和逻辑思维能力以及服务意识。",
+                    "min_salary": 20,
+                    "max_salary": 40,
+                    "currency": 1,
+                    "head_count": 10,
+                    "crator_id": "6851205827567568397",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6891107245413631502",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659533110000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "X4282",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118412000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "1339",
+                            "name": "中国大陆上海上海市闵行区田林路888弄科技绿洲10号楼，邮编：200000 ",
+                            "en_name": "田林路888弄科技绿洲10号楼, Minhang, Shanghai, Shanghai, Chinese mainland, 200000 ",
+                            "district": {
+                                "district_code": "DS_215",
+                                "name": "闵行区",
+                                "en_name": "Minhang",
+                                "i18n_name": "闵行区"
+                            },
+                            "city": {
+                                "city_code": "CT_125",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "state": {
+                                "state_code": "ST_47",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆上海上海市闵行区田林路888弄科技绿洲10号楼，邮编：200000 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_125",
+                            "name": "上海",
+                            "en_name": "Shanghai",
+                            "i18n_name": "上海"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7127529256272742670",
+                "title": "前端开发工程师-Pico",
+                "sub_title": "",
+                "description": "团队介绍：Pico是具备独立创新和研发创造能力的VR/AR团队，致力于为用户打造具有优秀体验的VR产品与内容生态，在前沿技术上有丰富的积累。我们相信VR/AR能为人们带来更丰富的感知和交互体验，改变我们感知和思考这个世界的方式。我们期待着和你，在Pico，一起探索，一起“激发创造、丰富生活”。\n\n1、负责Pico前端部分开发工作，包括Web、Hybrid、跨端、Node等业务场景；\n2、负责VR设备、智能硬件、用户侧相关前端系统和平台的前端开发工作；\n3、参与相关系统的方案设计、需求把控、拆解细化和实施开发，支撑Pico业务和VR生态快速发展；\n4、参与团队前端工程化体系建设，技术攻关，探索和优化前端团队的开发模式和流程规范，通过前端技术的不断产出驱动业务的发展。",
+                "requirement": "1、2023届获得本科及以上学历，计算机、软件工程等相关专业；\n2、有一定前端基础，熟悉 JS（TS）、CSS、HTTP 等前端技术；\n3、熟悉 React、Vue、Angular 任意一种技术栈；\n4、踏实靠谱，有强烈的自我驱动力、清晰的逻辑思考能力、良好的沟通协调推进能力。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_125",
+                    "name": "上海",
+                    "en_name": "Shanghai",
+                    "location_type": null,
+                    "i18n_name": "上海",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659507353000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "T5351",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "location_type": null,
+                        "i18n_name": "上海",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7127529256272742670",
+                    "job_id": "7127529395598199048",
+                    "title": "前端开发工程师-Pico",
+                    "sub_title": "",
+                    "address_id": "1822",
+                    "address": "中国大陆上海上海市徐汇区古美路1520号漕河泾中心B座1层，邮编：200233 ",
+                    "city": {
+                        "city_code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "i18n_name": "上海"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：Pico是具备独立创新和研发创造能力的VR/AR团队，致力于为用户打造具有优秀体验的VR产品与内容生态，在前沿技术上有丰富的积累。我们相信VR/AR能为人们带来更丰富的感知和交互体验，改变我们感知和思考这个世界的方式。我们期待着和你，在Pico，一起探索，一起“激发创造、丰富生活”。\n\n1、负责Pico前端部分开发工作，包括Web、Hybrid、跨端、Node等业务场景；\n2、负责VR设备、智能硬件、用户侧相关前端系统和平台的前端开发工作；\n3、参与相关系统的方案设计、需求把控、拆解细化和实施开发，支撑Pico业务和VR生态快速发展；\n4、参与团队前端工程化体系建设，技术攻关，探索和优化前端团队的开发模式和流程规范，通过前端技术的不断产出驱动业务的发展。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机、软件工程等相关专业；\n2、有一定前端基础，熟悉 JS（TS）、CSS、HTTP 等前端技术；\n3、熟悉 React、Vue、Angular 任意一种技术栈；\n4、踏实靠谱，有强烈的自我驱动力、清晰的逻辑思考能力、良好的沟通协调推进能力。",
+                    "min_salary": 20,
+                    "max_salary": 30,
+                    "currency": 1,
+                    "head_count": 10,
+                    "crator_id": "6727420527830730244",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6688203349877081612",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659507353000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302982920",
+                        "name": "2-1",
+                        "en_name": "2-1",
+                        "i18n_name": "2-1",
+                        "active_status": 1,
+                        "order": 11
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "T5351",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118410000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "1822",
+                            "name": "中国大陆上海上海市徐汇区古美路1520号漕河泾中心B座1层，邮编：200233 ",
+                            "en_name": "古美路1520号漕河泾中心B座1层, Xuhui, Shanghai, Shanghai, Chinese mainland, 200233 ",
+                            "district": {
+                                "district_code": "DS_43",
+                                "name": "徐汇区",
+                                "en_name": "Xuhui",
+                                "i18n_name": "徐汇区"
+                            },
+                            "city": {
+                                "city_code": "CT_125",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "state": {
+                                "state_code": "ST_47",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆上海上海市徐汇区古美路1520号漕河泾中心B座1层，邮编：200233 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_125",
+                            "name": "上海",
+                            "en_name": "Shanghai",
+                            "i18n_name": "上海"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7126841095690111263",
+                "title": "前端开发工程师-幸福里",
+                "sub_title": "",
+                "description": "团队介绍：幸福里是集内容、社区、工具于一体的房产信息与服务平台。产品基于个性化推荐引擎向用户推荐优质的房产内容和全面、真实的房源信息，致力于为用户提供全面、专业、可靠的购房决策支持。\n\n1、负责字节跳动-房产业务h5、小程序、PC系统的维护与开发；\n2、负责推动与优化业务线中前端基础架构、组件抽象；\n3、积极推动改进产品，包括技术、用户体验、产品等各个维度。",
+                "requirement": "1、2023届获得本科及以上学历，计算机、通信相关专业优先；\n2、计算机基础扎实：数据结构、算法、操作系统；\n3、熟悉javascript语言特性、css中常见布局方式、以及CSS3动画技术；\n4、熟悉VUE或React技术；\n5、有计算机类相关竞赛（如ACM）且获奖者优先；\n6、具较强的学习能力、主动、自驱、有责任心。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_125",
+                    "name": "上海",
+                    "en_name": "Shanghai",
+                    "location_type": null,
+                    "i18n_name": "上海",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659347004000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "S6158",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "location_type": null,
+                        "i18n_name": "上海",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7126841095690111263",
+                    "job_id": "7126840208016247071",
+                    "title": "前端开发工程师-幸福里",
+                    "sub_title": "",
+                    "address_id": "881",
+                    "address": "中国大陆上海上海市杨浦区黄兴路2218号合生汇17楼，邮编：200433 ",
+                    "city": {
+                        "city_code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "i18n_name": "上海"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：幸福里是集内容、社区、工具于一体的房产信息与服务平台。产品基于个性化推荐引擎向用户推荐优质的房产内容和全面、真实的房源信息，致力于为用户提供全面、专业、可靠的购房决策支持。\n\n1、负责字节跳动-房产业务h5、小程序、PC系统的维护与开发；\n2、负责推动与优化业务线中前端基础架构、组件抽象；\n3、积极推动改进产品，包括技术、用户体验、产品等各个维度。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机、通信相关专业优先；\n2、计算机基础扎实：数据结构、算法、操作系统；\n3、熟悉javascript语言特性、css中常见布局方式、以及CSS3动画技术；\n4、熟悉VUE或React技术；\n5、有计算机类相关竞赛（如ACM）且获奖者优先；\n6、具较强的学习能力、主动、自驱、有责任心。",
+                    "min_salary": 20,
+                    "max_salary": 30,
+                    "currency": 1,
+                    "head_count": 1,
+                    "crator_id": "6910009855201773069",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "7033662825331426847",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659347004000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302982920",
+                        "name": "2-1",
+                        "en_name": "2-1",
+                        "i18n_name": "2-1",
+                        "active_status": 1,
+                        "order": 11
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "S6158",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118408000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "881",
+                            "name": "中国大陆上海上海市杨浦区黄兴路2218号合生汇17楼，邮编：200433 ",
+                            "en_name": "黄兴路2218号合生汇17楼, Yangpu, Shanghai, Shanghai, Chinese mainland, 200433 ",
+                            "district": {
+                                "district_code": "DS_166",
+                                "name": "杨浦区",
+                                "en_name": "Yangpu",
+                                "i18n_name": "杨浦区"
+                            },
+                            "city": {
+                                "city_code": "CT_125",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "state": {
+                                "state_code": "ST_47",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆上海上海市杨浦区黄兴路2218号合生汇17楼，邮编：200433 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_125",
+                            "name": "上海",
+                            "en_name": "Shanghai",
+                            "i18n_name": "上海"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7126836328512424199",
+                "title": "前端开发工程师-Data",
+                "sub_title": "",
+                "description": "团队介绍：字节跳动Data研发部门，负责公司产品线的推荐、广告、系统架构、大数据和开放平台等技术。\n\n1、负责前端技术选型和开发工作；\n2、优化前端功能设计，解决各种浏览器和终端设备的兼容性问题；\n3、通过技术手段，提升用户体验并满足高性能要求；\n4、通用组件、类库编写，提升开发效率和质量。",
+                "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、精通HTML、CSS、JS，熟悉页面架构和布局，熟悉HTML5/CSS3等常用技术；\n3、熟悉常用UI框架（如bootstrap/pure/kendo等)；\n4、精通JavaScript、AJAX、DOM、jQuery等技术；\n5、熟悉NodeJS，熟练使用Grunt、Gulp、Webpack等构建工具；\n6、具备MVVM框架开发经验，如React、VueJS、AngularJS等；\n7、良好的沟通和团队协作能力、热爱技术、责任心强、能推动技术框架的落地使用。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_125",
+                    "name": "上海",
+                    "en_name": "Shanghai",
+                    "location_type": null,
+                    "i18n_name": "上海",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659345927000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "D5675",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "location_type": null,
+                        "i18n_name": "上海",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7126836328512424199",
+                    "job_id": "7126836336641116447",
+                    "title": "前端开发工程师-Data",
+                    "sub_title": "",
+                    "address_id": "860",
+                    "address": "中国大陆上海上海市闵行区宜山路1999号科技绿洲三期24号楼，邮编：200030 ",
+                    "city": {
+                        "city_code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "i18n_name": "上海"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：字节跳动Data研发部门，负责公司产品线的推荐、广告、系统架构、大数据和开放平台等技术。\n\n1、负责前端技术选型和开发工作；\n2、优化前端功能设计，解决各种浏览器和终端设备的兼容性问题；\n3、通过技术手段，提升用户体验并满足高性能要求；\n4、通用组件、类库编写，提升开发效率和质量。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、精通HTML、CSS、JS，熟悉页面架构和布局，熟悉HTML5/CSS3等常用技术；\n3、熟悉常用UI框架（如bootstrap/pure/kendo等)；\n4、精通JavaScript、AJAX、DOM、jQuery等技术；\n5、熟悉NodeJS，熟练使用Grunt、Gulp、Webpack等构建工具；\n6、具备MVVM框架开发经验，如React、VueJS、AngularJS等；\n7、良好的沟通和团队协作能力、热爱技术、责任心强、能推动技术框架的落地使用。",
+                    "min_salary": 20,
+                    "max_salary": 30,
+                    "currency": 1,
+                    "head_count": 50,
+                    "crator_id": "6808653805765559822",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6688203000848254468",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659345927000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "D5675",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118408000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "860",
+                            "name": "中国大陆上海上海市闵行区宜山路1999号科技绿洲三期24号楼，邮编：200030 ",
+                            "en_name": "宜山路1999号科技绿洲三期24号楼, Minhang, Shanghai, Shanghai, Chinese mainland, 200030 ",
+                            "district": {
+                                "district_code": "DS_215",
+                                "name": "闵行区",
+                                "en_name": "Minhang",
+                                "i18n_name": "闵行区"
+                            },
+                            "city": {
+                                "city_code": "CT_125",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "state": {
+                                "state_code": "ST_47",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆上海上海市闵行区宜山路1999号科技绿洲三期24号楼，邮编：200030 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_125",
+                            "name": "上海",
+                            "en_name": "Shanghai",
+                            "i18n_name": "上海"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7126750314166880543",
+                "title": "前端开发工程师-飞书业务中台",
+                "sub_title": "",
+                "description": "团队介绍：围绕字节跳动的To B产品矩阵建设通用的业务中台，为业务提供统一的账号、权限、组织架构等基建能力，提供数据中台、账号安全、数据安全、终端安全、隐私合规中心、数据生命周期管理等产品/技术解决方案，同时通过中间件技术手段解决飞书业务在架构上面临的核心技术问题，帮助企业在协同办公、人事管理、目标管理、费用管理等领域能够更便捷地完成数字化和信息流转，提升企业内外部的协作效率和创造力。\n\n1、负责飞书业务前端开发工作；\n2、工作范围涉及前端基础架构、跨端应用、全栈开发、数据可视化、前端智能化等多个方向；\n3、承担业务重点技术攻坚，通过高质量的编码设计支持业务的快速发展；\n4、与产品经理、设计师、后端工程师一起，提升产品的用户体验，打造卓越的互联网产品；\n5、关注前端前沿技术发展，能够将新知识传递给团队，并且转化到潜在项目中。",
+                "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、计算机基础扎实，包括操作系统，数据结构与算法，计算机网络；\n3、至少熟悉一门编程语言，有良好的编码风格；\n4、熟悉HTML、CSS、JS等Web常用技术；\n5、对新技术保持热情，具备良好的分析、解决问题的能力，关注用户体验。\n\n如果你具备以下条件，我们会优先考虑：\n1、具备多端(Web/Server/Native)开发能力；\n2、了解React Native、Flutter、小程序、小游戏等，有一定的实际开发经验；\n3、深入理解组件化开发，对于mvp、mvc和mvvm有自己的见解；\n4、自我驱动，学习能力较强；\n5、有开源作品或者技术博客。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_125",
+                    "name": "上海",
+                    "en_name": "Shanghai",
+                    "location_type": null,
+                    "i18n_name": "上海",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659325865000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "J5064",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "location_type": null,
+                        "i18n_name": "上海",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7126750314166880543",
+                    "job_id": "7126749525474281765",
+                    "title": "前端开发工程师-飞书业务中台",
+                    "sub_title": "",
+                    "address_id": "1748",
+                    "address": "中国大陆上海上海市徐汇区古美路1520号漕河泾中心C座28层，邮编：200233 ",
+                    "city": {
+                        "city_code": "CT_125",
+                        "name": "上海",
+                        "en_name": "Shanghai",
+                        "i18n_name": "上海"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：围绕字节跳动的To B产品矩阵建设通用的业务中台，为业务提供统一的账号、权限、组织架构等基建能力，提供数据中台、账号安全、数据安全、终端安全、隐私合规中心、数据生命周期管理等产品/技术解决方案，同时通过中间件技术手段解决飞书业务在架构上面临的核心技术问题，帮助企业在协同办公、人事管理、目标管理、费用管理等领域能够更便捷地完成数字化和信息流转，提升企业内外部的协作效率和创造力。\n\n1、负责飞书业务前端开发工作；\n2、工作范围涉及前端基础架构、跨端应用、全栈开发、数据可视化、前端智能化等多个方向；\n3、承担业务重点技术攻坚，通过高质量的编码设计支持业务的快速发展；\n4、与产品经理、设计师、后端工程师一起，提升产品的用户体验，打造卓越的互联网产品；\n5、关注前端前沿技术发展，能够将新知识传递给团队，并且转化到潜在项目中。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、计算机基础扎实，包括操作系统，数据结构与算法，计算机网络；\n3、至少熟悉一门编程语言，有良好的编码风格；\n4、熟悉HTML、CSS、JS等Web常用技术；\n5、对新技术保持热情，具备良好的分析、解决问题的能力，关注用户体验。\n\n如果你具备以下条件，我们会优先考虑：\n1、具备多端(Web/Server/Native)开发能力；\n2、了解React Native、Flutter、小程序、小游戏等，有一定的实际开发经验；\n3、深入理解组件化开发，对于mvp、mvc和mvvm有自己的见解；\n4、自我驱动，学习能力较强；\n5、有开源作品或者技术博客。",
+                    "min_salary": 20,
+                    "max_salary": 25,
+                    "currency": 1,
+                    "head_count": 4,
+                    "crator_id": "6895544430141376014",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6992031926659843621",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659325865000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "J5064",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118406000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "1748",
+                            "name": "中国大陆上海上海市徐汇区古美路1520号漕河泾中心C座28层，邮编：200233 ",
+                            "en_name": "古美路1520号漕河泾中心C座28层, Xuhui, Shanghai, Shanghai, Chinese mainland, 200233 ",
+                            "district": {
+                                "district_code": "DS_43",
+                                "name": "徐汇区",
+                                "en_name": "Xuhui",
+                                "i18n_name": "徐汇区"
+                            },
+                            "city": {
+                                "city_code": "CT_125",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "state": {
+                                "state_code": "ST_47",
+                                "name": "上海",
+                                "en_name": "Shanghai",
+                                "i18n_name": "上海"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆上海上海市徐汇区古美路1520号漕河泾中心C座28层，邮编：200233 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_125",
+                            "name": "上海",
+                            "en_name": "Shanghai",
+                            "i18n_name": "上海"
+                        }
+                    ]
+                }
+            }
+        ],
+        "count": 17,
+        "extra": "{\"fe_tracking\":{\"log_id\":\"202208101659370101511780460728B377\",\"query_length\":0,\"total\":17}}"
+    },
+    "message": "ok",
+    "error": null
+}

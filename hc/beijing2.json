@@ -1,0 +1,2421 @@
+{
+    "code": 0,
+    "data": {
+        "job_post_list": [
+            {
+                "id": "7129432377055775013",
+                "title": "前端开发工程师-风控",
+                "sub_title": "",
+                "description": "团队介绍：风控研发作为业务的风控技术中台主要帮助解决各个产品的各种黑灰产作弊问题，包括但不限于内容风控、账号风控、电商风控、流量风控等问题。\n\n1、负责前端技术选型和开发工作，支持字节跳动各产品线（抖音短视频、电商、直播、生活服务、用户增长等）的风控需求；\n2、优化前端功能设计，解决各种浏览器和终端设备的兼容性问题；\n3、通过技术手段，提升用户体验并满足高性能要求；\n4、通用组件、类库编写，提升开发效率和质量。",
+                "requirement": "1、2023届获得本科及以上学历，计算机相关专业者优先； \n2、精通HTML、CSS、JS，熟悉页面架构和布局，熟悉HTML5/CSS3等常用技术；\n3、熟悉常用UI框架（如React、Vue等)；\n4、熟悉 Node.js、Rust、Go、Webassembly 等框架和设计理念，并有相关技术经验；\n5、良好的沟通和团队协作能力、热爱技术、责任心强、能推动技术框架的落地使用。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_11",
+                    "name": "北京",
+                    "en_name": "Beijing",
+                    "location_type": null,
+                    "i18n_name": "北京",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659950332000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "S0080",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "location_type": null,
+                        "i18n_name": "北京",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7129432377055775013",
+                    "job_id": "7129432252497824030",
+                    "title": "前端开发工程师-风控",
+                    "sub_title": "",
+                    "address_id": "26",
+                    "address": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                    "city": {
+                        "city_code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "i18n_name": "北京"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：风控研发作为业务的风控技术中台主要帮助解决各个产品的各种黑灰产作弊问题，包括但不限于内容风控、账号风控、电商风控、流量风控等问题。\n\n1、负责前端技术选型和开发工作，支持字节跳动各产品线（抖音短视频、电商、直播、生活服务、用户增长等）的风控需求；\n2、优化前端功能设计，解决各种浏览器和终端设备的兼容性问题；\n3、通过技术手段，提升用户体验并满足高性能要求；\n4、通用组件、类库编写，提升开发效率和质量。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机相关专业者优先； \n2、精通HTML、CSS、JS，熟悉页面架构和布局，熟悉HTML5/CSS3等常用技术；\n3、熟悉常用UI框架（如React、Vue等)；\n4、熟悉 Node.js、Rust、Go、Webassembly 等框架和设计理念，并有相关技术经验；\n5、良好的沟通和团队协作能力、热爱技术、责任心强、能推动技术框架的落地使用。",
+                    "min_salary": 20,
+                    "max_salary": 35,
+                    "currency": 1,
+                    "head_count": 1,
+                    "crator_id": "6794210631257261582",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6827613441419707911",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659950332000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302982920",
+                        "name": "2-1",
+                        "en_name": "2-1",
+                        "i18n_name": "2-1",
+                        "active_status": 1,
+                        "order": 11
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "S0080",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118441000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "26",
+                            "name": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                            "en_name": "北三环西路43号中航广场1号楼（矮楼）, Haidian, Beijing, Beijing, Chinese mainland, 100089 ",
+                            "district": {
+                                "district_code": "DS_2",
+                                "name": "海淀区",
+                                "en_name": "Haidian",
+                                "i18n_name": "海淀区"
+                            },
+                            "city": {
+                                "city_code": "CT_11",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "state": {
+                                "state_code": "ST_8",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_11",
+                            "name": "北京",
+                            "en_name": "Beijing",
+                            "i18n_name": "北京"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7129338610113628430",
+                "title": "前端开发工程师-抖音",
+                "sub_title": "",
+                "description": "团队介绍：抖音研发团队，主要负责抖音短视频的业务和技术研发、公司全部产品的内容安全业务。截至2020年8月，抖音日活用户超6亿，并继续保持高速增长。\n未来一年，抖音将更多关注对创作者和社会的价值。团队汇聚各种背景的顶尖人才，在更大体量更为复杂的业务场景中不断提升，在项目0-1的过程中影响上亿用户。期待你的加入！\n\n1、负责抖音等产品的前端技术开发工作，包括移动端产品以及PC端产品；\n2、完成用户功能设计和开发，确保浏览器或其他终端设备兼容性；\n3、通过技术手段，优化前端性能，提升用户体验；\n4、设计研发通用组件、工具和类库，提升开发质量和效率。",
+                "requirement": "1、2023届获得本科及以上学历，计算机、通信和电子信息科学、数学等相关专业；\n2、具备良好的计算机基础，熟悉常用的数据结构和算法，并熟练使用至少一门编程语言完成代码编写；\n3、有兴趣深入学习前端技术开发和了解用户交互体验；\n4、熟练使用HTML(5)/CSS(3)/JS等前端技术完成页面布局和交互开发；\n5、熟悉使用Vue/React等前端框架或者具备Web项目开发经验的同学优先；\n6、积极乐观，责任心强，具备良好的沟通协作能力、逻辑思维能力以及服务意识。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_11",
+                    "name": "北京",
+                    "en_name": "Beijing",
+                    "location_type": null,
+                    "i18n_name": "北京",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659928519000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "W9846",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "location_type": null,
+                        "i18n_name": "北京",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7129338610113628430",
+                    "job_id": "7129337829075568932",
+                    "title": "前端开发工程师-抖音",
+                    "sub_title": "",
+                    "address_id": "1906",
+                    "address": "中国大陆北京北京市海淀区北三环西路甲18号大钟寺广场2号楼5层，邮编：100098 ",
+                    "city": {
+                        "city_code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "i18n_name": "北京"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：抖音研发团队，主要负责抖音短视频的业务和技术研发、公司全部产品的内容安全业务。截至2020年8月，抖音日活用户超6亿，并继续保持高速增长。\n未来一年，抖音将更多关注对创作者和社会的价值。团队汇聚各种背景的顶尖人才，在更大体量更为复杂的业务场景中不断提升，在项目0-1的过程中影响上亿用户。期待你的加入！\n\n1、负责抖音等产品的前端技术开发工作，包括移动端产品以及PC端产品；\n2、完成用户功能设计和开发，确保浏览器或其他终端设备兼容性；\n3、通过技术手段，优化前端性能，提升用户体验；\n4、设计研发通用组件、工具和类库，提升开发质量和效率。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机、通信和电子信息科学、数学等相关专业；\n2、具备良好的计算机基础，熟悉常用的数据结构和算法，并熟练使用至少一门编程语言完成代码编写；\n3、有兴趣深入学习前端技术开发和了解用户交互体验；\n4、熟练使用HTML(5)/CSS(3)/JS等前端技术完成页面布局和交互开发；\n5、熟悉使用Vue/React等前端框架或者具备Web项目开发经验的同学优先；\n6、积极乐观，责任心强，具备良好的沟通协作能力、逻辑思维能力以及服务意识。",
+                    "min_salary": 20,
+                    "max_salary": 30,
+                    "currency": 1,
+                    "head_count": 10,
+                    "crator_id": "6905939105419363854",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6687891830182299139",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659928519000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302982920",
+                        "name": "2-1",
+                        "en_name": "2-1",
+                        "i18n_name": "2-1",
+                        "active_status": 1,
+                        "order": 11
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "W9846",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118435000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "1906",
+                            "name": "中国大陆北京北京市海淀区北三环西路甲18号大钟寺广场2号楼5层，邮编：100098 ",
+                            "en_name": "Floor 5, Building 2, Dazhong Temple Plaza, No. 18, North Third Ring West Road, Haidian, Beijing, Beijing, Chinese mainland, 100098 ",
+                            "district": {
+                                "district_code": "DS_2",
+                                "name": "海淀区",
+                                "en_name": "Haidian",
+                                "i18n_name": "海淀区"
+                            },
+                            "city": {
+                                "city_code": "CT_11",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "state": {
+                                "state_code": "ST_8",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆北京北京市海淀区北三环西路甲18号大钟寺广场2号楼5层，邮编：100098 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_11",
+                            "name": "北京",
+                            "en_name": "Beijing",
+                            "i18n_name": "北京"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7129325542779767071",
+                "title": "前端开发工程师-产品研发",
+                "sub_title": "",
+                "description": "团队介绍：产品研发，负责各类业务，如今日头条、西瓜视频、番茄小说、飞书、电商、国际化电商、教育、幸福里、住小帮等业务的研发和维护工作。基础架构，支持公司的云基础设施建设，为公司业务和中台体系提供存储、计算、研发效率体系支撑。安全与风控，负责公司信息安全与业务风控的建设、规划和管理工作，努力打造一个让每位用户都能安全而自由交流的内容生态。\n\n1、负责前端技术选型和开发工作；\n2、通用组件、类库编写，提升开发效率和质量；\n3、通过技术手段，提升用户体验并满足高性能要求；\n4、优化前端功能设计，解决各种浏览器和终端设备的兼容性问题。",
+                "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、精通前端相关技术栈（HTML、CSS、JS），有扎实的代码功底和良好的上层设计能力；\n3、熟悉常用UI框架，如Element Ui、Material-UI、Ant Design等；\n4、熟悉NodeJS，熟练使用fs、http、buffer、events等常用模块；\n5、熟悉常用框架如React、VueJS、AngularJS实现原理及开发模式；\n6、对前端相关技术抱有好奇心，持续关注熟悉前沿技术。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_11",
+                    "name": "北京",
+                    "en_name": "Beijing",
+                    "location_type": null,
+                    "i18n_name": "北京",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659925458000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "X8550",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "location_type": null,
+                        "i18n_name": "北京",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7129325542779767071",
+                    "job_id": "7129325436974795038",
+                    "title": "前端开发工程师-产品研发",
+                    "sub_title": "",
+                    "address_id": "26",
+                    "address": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                    "city": {
+                        "city_code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "i18n_name": "北京"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：产品研发，负责各类业务，如今日头条、西瓜视频、番茄小说、飞书、电商、国际化电商、教育、幸福里、住小帮等业务的研发和维护工作。基础架构，支持公司的云基础设施建设，为公司业务和中台体系提供存储、计算、研发效率体系支撑。安全与风控，负责公司信息安全与业务风控的建设、规划和管理工作，努力打造一个让每位用户都能安全而自由交流的内容生态。\n\n1、负责前端技术选型和开发工作；\n2、通用组件、类库编写，提升开发效率和质量；\n3、通过技术手段，提升用户体验并满足高性能要求；\n4、优化前端功能设计，解决各种浏览器和终端设备的兼容性问题。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、精通前端相关技术栈（HTML、CSS、JS），有扎实的代码功底和良好的上层设计能力；\n3、熟悉常用UI框架，如Element Ui、Material-UI、Ant Design等；\n4、熟悉NodeJS，熟练使用fs、http、buffer、events等常用模块；\n5、熟悉常用框架如React、VueJS、AngularJS实现原理及开发模式；\n6、对前端相关技术抱有好奇心，持续关注熟悉前沿技术。",
+                    "min_salary": 20,
+                    "max_salary": 30,
+                    "currency": 1,
+                    "head_count": 5,
+                    "crator_id": "6965679789365528072",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "7057797631468242469",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659925458000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302982920",
+                        "name": "2-1",
+                        "en_name": "2-1",
+                        "i18n_name": "2-1",
+                        "active_status": 1,
+                        "order": 11
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "X8550",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118433000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "26",
+                            "name": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                            "en_name": "北三环西路43号中航广场1号楼（矮楼）, Haidian, Beijing, Beijing, Chinese mainland, 100089 ",
+                            "district": {
+                                "district_code": "DS_2",
+                                "name": "海淀区",
+                                "en_name": "Haidian",
+                                "i18n_name": "海淀区"
+                            },
+                            "city": {
+                                "city_code": "CT_11",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "state": {
+                                "state_code": "ST_8",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_11",
+                            "name": "北京",
+                            "en_name": "Beijing",
+                            "i18n_name": "北京"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7128335007949916430",
+                "title": "前端开发工程师-小荷健康",
+                "sub_title": "",
+                "description": "团队介绍：小荷健康是字节跳动旗下的医疗健康业务品牌，由一批热爱技术且敬畏医疗的小伙伴组成，致力于“帮助每一个人更好地认知健康、获取健康”。我们认真做科普，踏实做服务，希望做出让医生、患者、行业伙伴都满意和信赖的医疗健康平台。\n\n1、负责业务需求沟通与开发支持；\n2、参与前端团队的技术决策，架构建设及优化；\n3、前端前沿技术的调研和落地； \n4、持续优化项目的开发流程、性能与用户体验。",
+                "requirement": "1、2023届获得本科及以上学历，计算机及相关专业；\n2、精通 HTML、CSS 与 JavaScript，关注 HTML5/CSS3/ESNext， 有 TypeScript 开发经验优先；\n3、至少熟悉Vue 或 React 中的一种，并对其原理理有深刻的理解，对相应开源社区有贡献的优先； \n4、具备扎实的计算机相关知识基础并有良好的编码规范； \n5、对前端工程化有自己的经验心得，能通过工程手段落实代码规范，提升效率及质量； \n6、思路清晰，具备良好的沟通能力和团队协作精神，善于学习、总结，乐于分享。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_11",
+                    "name": "北京",
+                    "en_name": "Beijing",
+                    "location_type": null,
+                    "i18n_name": "北京",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659694930000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "A0337A",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "location_type": null,
+                        "i18n_name": "北京",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7128335007949916430",
+                    "job_id": "7127475774856677645",
+                    "title": "前端开发工程师-小荷健康",
+                    "sub_title": "",
+                    "address_id": "1397",
+                    "address": "中国大陆北京北京市海淀区知春路17号知春嘉园2号楼3层，邮编：100086 ",
+                    "city": {
+                        "city_code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "i18n_name": "北京"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：小荷健康是字节跳动旗下的医疗健康业务品牌，由一批热爱技术且敬畏医疗的小伙伴组成，致力于“帮助每一个人更好地认知健康、获取健康”。我们认真做科普，踏实做服务，希望做出让医生、患者、行业伙伴都满意和信赖的医疗健康平台。\n\n1、负责业务需求沟通与开发支持；\n2、参与前端团队的技术决策，架构建设及优化；\n3、前端前沿技术的调研和落地； \n4、持续优化项目的开发流程、性能与用户体验。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机及相关专业；\n2、精通 HTML、CSS 与 JavaScript，关注 HTML5/CSS3/ESNext， 有 TypeScript 开发经验优先；\n3、至少熟悉Vue 或 React 中的一种，并对其原理理有深刻的理解，对相应开源社区有贡献的优先； \n4、具备扎实的计算机相关知识基础并有良好的编码规范； \n5、对前端工程化有自己的经验心得，能通过工程手段落实代码规范，提升效率及质量； \n6、思路清晰，具备良好的沟通能力和团队协作精神，善于学习、总结，乐于分享。",
+                    "min_salary": 20,
+                    "max_salary": 28,
+                    "currency": 1,
+                    "head_count": 3,
+                    "crator_id": "7113724764874933790",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6854736201308440067",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659694930000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "A0337A",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118417000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "1397",
+                            "name": "中国大陆北京北京市海淀区知春路17号知春嘉园2号楼3层，邮编：100086 ",
+                            "en_name": "知春路17号知春嘉园2号楼3层, Haidian, Beijing, Beijing, Chinese mainland, 100086 ",
+                            "district": {
+                                "district_code": "DS_2",
+                                "name": "海淀区",
+                                "en_name": "Haidian",
+                                "i18n_name": "海淀区"
+                            },
+                            "city": {
+                                "city_code": "CT_11",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "state": {
+                                "state_code": "ST_8",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆北京北京市海淀区知春路17号知春嘉园2号楼3层，邮编：100086 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_11",
+                            "name": "北京",
+                            "en_name": "Beijing",
+                            "i18n_name": "北京"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7128323105294272798",
+                "title": "前端开发工程师-系统架构",
+                "sub_title": "",
+                "description": "团队介绍：字节跳动基础技术团队，负责字节跳动数据中心、服务器、网络、CDN 等基础设施的设计、研发、采购、交付与管理，为公司业务的发展以及企业客户提供高效、稳定、具备可扩展性的基础设施。部门当前业务开展包括不限于：数据中心设计建设、实施，芯片与服务器研发，网络工程研发，火山引擎边缘云业务，以及高性能智能硬件研发、IDC资源智能交付与运维、硬件基础设施智能监控与预警、操作系统与内核、虚拟化技术、编译工具链等众多底层软硬件技术与方向。\n\n1、负责字节跳动中台架构系统开发与研发；\n2、负责提升研发和运营效率的通用组件、工具和平台的前端开发工作； \n3、负责推动与优化业务线中前端基础架构、组件抽象。",
+                "requirement": "1、2023届获得本科及以上学历，计算机等相关专业；\n2、熟悉HTML/CSS/JavaScript和HTTP协议等；\n3、有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分；\n4、有强烈的求知欲，优秀的学习和沟通能力。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_11",
+                    "name": "北京",
+                    "en_name": "Beijing",
+                    "location_type": null,
+                    "i18n_name": "北京",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659692103000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "P7329",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "location_type": null,
+                        "i18n_name": "北京",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7128323105294272798",
+                    "job_id": "7128323056180070664",
+                    "title": "前端开发工程师-系统架构",
+                    "sub_title": "",
+                    "address_id": "26",
+                    "address": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                    "city": {
+                        "city_code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "i18n_name": "北京"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：字节跳动基础技术团队，负责字节跳动数据中心、服务器、网络、CDN 等基础设施的设计、研发、采购、交付与管理，为公司业务的发展以及企业客户提供高效、稳定、具备可扩展性的基础设施。部门当前业务开展包括不限于：数据中心设计建设、实施，芯片与服务器研发，网络工程研发，火山引擎边缘云业务，以及高性能智能硬件研发、IDC资源智能交付与运维、硬件基础设施智能监控与预警、操作系统与内核、虚拟化技术、编译工具链等众多底层软硬件技术与方向。\n\n1、负责字节跳动中台架构系统开发与研发；\n2、负责提升研发和运营效率的通用组件、工具和平台的前端开发工作； \n3、负责推动与优化业务线中前端基础架构、组件抽象。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机等相关专业；\n2、熟悉HTML/CSS/JavaScript和HTTP协议等；\n3、有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分；\n4、有强烈的求知欲，优秀的学习和沟通能力。",
+                    "min_salary": 20,
+                    "max_salary": 40,
+                    "currency": 1,
+                    "head_count": 100,
+                    "crator_id": "7008724887875356196",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6688203828158187016",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659692103000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302982920",
+                        "name": "2-1",
+                        "en_name": "2-1",
+                        "i18n_name": "2-1",
+                        "active_status": 1,
+                        "order": 11
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "P7329",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118417000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "26",
+                            "name": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                            "en_name": "北三环西路43号中航广场1号楼（矮楼）, Haidian, Beijing, Beijing, Chinese mainland, 100089 ",
+                            "district": {
+                                "district_code": "DS_2",
+                                "name": "海淀区",
+                                "en_name": "Haidian",
+                                "i18n_name": "海淀区"
+                            },
+                            "city": {
+                                "city_code": "CT_11",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "state": {
+                                "state_code": "ST_8",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_11",
+                            "name": "北京",
+                            "en_name": "Beijing",
+                            "i18n_name": "北京"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7127929773637044488",
+                "title": "前端开发工程师-基础架构",
+                "sub_title": "",
+                "description": "团队介绍：字节跳动基础架构团队主要负责公司云基础建设，支撑着字节跳动旗下多款APP产品，如抖音、今日头条、番茄小说、西瓜视频、飞书、剪映等，同时也负责支持火山引擎公有云业务。迄今为止，我们通过云技术管理着百万量级的服务器构成的超大数据中心；我们通过字节深度优化的Kubernetes管理超过千万容器实例支持10万+微服务；我们还通过丰富的存储产品矩阵，如NewSQL、NoSQL、云存储等治理EB级的数据资产；我们积极拥抱开源和创新的软硬件架构，致力于构建业界领先的云基础设施，为整个公司的业务和客户发展保驾护航。我们热切期待对技术有追求、对大型系统有深刻见解的同学加入基础架构团队一起构建基础设施系统。\n\n1、负责公有云、混合云等云产品业务前端开发工作；\n2、参与通用组件、中后台建站、研发效能等工程化建设；\n3、深入发掘和分析业务需求，撰写技术方案和系统实现。",
+                "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、熟悉HTML、CSS、JS常用前端技术栈，了解 Vue或者React、Koa 等应用框架；\n3、良好的沟通和团队协作能力、热爱技术、责任心强、能推动技术框架的落地使用。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_11",
+                    "name": "北京",
+                    "en_name": "Beijing",
+                    "location_type": null,
+                    "i18n_name": "北京",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659600592000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "E7494",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "location_type": null,
+                        "i18n_name": "北京",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7127929773637044488",
+                    "job_id": "7127929951868963086",
+                    "title": "前端开发工程师-基础架构",
+                    "sub_title": "",
+                    "address_id": "26",
+                    "address": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                    "city": {
+                        "city_code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "i18n_name": "北京"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：字节跳动基础架构团队主要负责公司云基础建设，支撑着字节跳动旗下多款APP产品，如抖音、今日头条、番茄小说、西瓜视频、飞书、剪映等，同时也负责支持火山引擎公有云业务。迄今为止，我们通过云技术管理着百万量级的服务器构成的超大数据中心；我们通过字节深度优化的Kubernetes管理超过千万容器实例支持10万+微服务；我们还通过丰富的存储产品矩阵，如NewSQL、NoSQL、云存储等治理EB级的数据资产；我们积极拥抱开源和创新的软硬件架构，致力于构建业界领先的云基础设施，为整个公司的业务和客户发展保驾护航。我们热切期待对技术有追求、对大型系统有深刻见解的同学加入基础架构团队一起构建基础设施系统。\n\n1、负责公有云、混合云等云产品业务前端开发工作；\n2、参与通用组件、中后台建站、研发效能等工程化建设；\n3、深入发掘和分析业务需求，撰写技术方案和系统实现。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、熟悉HTML、CSS、JS常用前端技术栈，了解 Vue或者React、Koa 等应用框架；\n3、良好的沟通和团队协作能力、热爱技术、责任心强、能推动技术框架的落地使用。",
+                    "min_salary": 10,
+                    "max_salary": 15,
+                    "currency": 1,
+                    "head_count": 10,
+                    "crator_id": "6941172969393620488",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6751304482983790091",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659600592000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302982920",
+                        "name": "2-1",
+                        "en_name": "2-1",
+                        "i18n_name": "2-1",
+                        "active_status": 1,
+                        "order": 11
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "E7494",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118403000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "26",
+                            "name": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                            "en_name": "北三环西路43号中航广场1号楼（矮楼）, Haidian, Beijing, Beijing, Chinese mainland, 100089 ",
+                            "district": {
+                                "district_code": "DS_2",
+                                "name": "海淀区",
+                                "en_name": "Haidian",
+                                "i18n_name": "海淀区"
+                            },
+                            "city": {
+                                "city_code": "CT_11",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "state": {
+                                "state_code": "ST_8",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_11",
+                            "name": "北京",
+                            "en_name": "Beijing",
+                            "i18n_name": "北京"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7127907425928218894",
+                "title": "前端开发工程师-智能创作",
+                "sub_title": "",
+                "description": "团队介绍：智能创作团队是字节跳动AI\u0026多媒体技术中台，在计算机视觉、音视频编辑、特效处理、语音等角度支持抖音、剪映、西瓜视频等公司内众多产品线；同时为外部ToB合作伙伴提供业界前沿的智能创作能力与行业解决方案。\n\n1、负责抖音特效业务中台能力建设，包含特效君App以及特效相关的开放平台、运营服务等平台的前端、全栈或NodeJS服务开发工作；\n2、负责智能创作相关产品的平台化建设，包括智能创作云、模板生态、多态编辑器、机器学习平台等平台建设；\n3、参与通用组件、中后台建站、研发效能等工程化建设；\n4、深入发掘和分析业务需求，撰写技术方案和系统设计。",
+                "requirement": "1、2023届获得本科及以上学历，计算机、通信和电子信息科学、数学等相关专业；\n2、了解JavaScript、CSS、HTML、浏览器、网络、安全、性能优化等前端技术，对主流前端框架（ React \\ Vue \\ Angular等）至少一种能够理解其设计原理；\n3、熟悉图形学，音视频或NodeJS技术者优先；\n4、有 Flutter、React Native、Inoic、小程序等跨端开发框架经验者优先；\n5、积极乐观，责任心强，工作认真细致，具备良好的服务意识与团队沟通与协作能力；\n6、热爱前端技术，有较强的学习能力，有强烈的求知欲、好奇心和进取心 ，能及时关注和学习业界最新的前端技术。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_11",
+                    "name": "北京",
+                    "en_name": "Beijing",
+                    "location_type": null,
+                    "i18n_name": "北京",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659595279000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "G2594",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "location_type": null,
+                        "i18n_name": "北京",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7127907425928218894",
+                    "job_id": "7127906943313987847",
+                    "title": "前端开发工程师-智能创作",
+                    "sub_title": "",
+                    "address_id": "815",
+                    "address": "中国大陆北京北京市海淀区中关村南四街18号紫金数码园四号楼，邮编：100190 ",
+                    "city": {
+                        "city_code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "i18n_name": "北京"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：智能创作团队是字节跳动AI\u0026多媒体技术中台，在计算机视觉、音视频编辑、特效处理、语音等角度支持抖音、剪映、西瓜视频等公司内众多产品线；同时为外部ToB合作伙伴提供业界前沿的智能创作能力与行业解决方案。\n\n1、负责抖音特效业务中台能力建设，包含特效君App以及特效相关的开放平台、运营服务等平台的前端、全栈或NodeJS服务开发工作；\n2、负责智能创作相关产品的平台化建设，包括智能创作云、模板生态、多态编辑器、机器学习平台等平台建设；\n3、参与通用组件、中后台建站、研发效能等工程化建设；\n4、深入发掘和分析业务需求，撰写技术方案和系统设计。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机、通信和电子信息科学、数学等相关专业；\n2、了解JavaScript、CSS、HTML、浏览器、网络、安全、性能优化等前端技术，对主流前端框架（ React \\ Vue \\ Angular等）至少一种能够理解其设计原理；\n3、熟悉图形学，音视频或NodeJS技术者优先；\n4、有 Flutter、React Native、Inoic、小程序等跨端开发框架经验者优先；\n5、积极乐观，责任心强，工作认真细致，具备良好的服务意识与团队沟通与协作能力；\n6、热爱前端技术，有较强的学习能力，有强烈的求知欲、好奇心和进取心 ，能及时关注和学习业界最新的前端技术。",
+                    "min_salary": 25,
+                    "max_salary": 50,
+                    "currency": 1,
+                    "head_count": 3,
+                    "crator_id": "6942295571658966565",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6688203109283530252",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659595279000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "G2594",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118413000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "815",
+                            "name": "中国大陆北京北京市海淀区中关村南四街18号紫金数码园四号楼，邮编：100190 ",
+                            "en_name": "中关村南四街18号紫金数码园四号楼, Haidian, Beijing, Beijing, Chinese mainland, 100190 ",
+                            "district": {
+                                "district_code": "DS_2",
+                                "name": "海淀区",
+                                "en_name": "Haidian",
+                                "i18n_name": "海淀区"
+                            },
+                            "city": {
+                                "city_code": "CT_11",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "state": {
+                                "state_code": "ST_8",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆北京北京市海淀区中关村南四街18号紫金数码园四号楼，邮编：100190 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_11",
+                            "name": "北京",
+                            "en_name": "Beijing",
+                            "i18n_name": "北京"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7127527355001784589",
+                "title": "前端开发工程师-Pico",
+                "sub_title": "",
+                "description": "团队介绍：Pico是具备独立创新和研发创造能力的VR/AR团队，致力于为用户打造具有优秀体验的VR产品与内容生态，在前沿技术上有丰富的积累。我们相信VR/AR能为人们带来更丰富的感知和交互体验，改变我们感知和思考这个世界的方式。我们期待着和你，在Pico，一起探索，一起“激发创造、丰富生活”。\n\n1、负责Pico前端部分开发工作，包括Web、Hybrid、跨端、Node等业务场景；\n2、负责VR设备、智能硬件、用户侧相关前端系统和平台的前端开发工作；\n3、参与相关系统的方案设计、需求把控、拆解细化和实施开发，支撑Pico业务和VR生态快速发展；\n4、参与团队前端工程化体系建设，技术攻关，探索和优化前端团队的开发模式和流程规范，通过前端技术的不断产出驱动业务的发展。",
+                "requirement": "1、2023届获得本科及以上学历，计算机、软件工程等相关专业；\n2、有一定前端基础，熟悉 JS（TS）、CSS、HTTP 等前端技术；\n3、熟悉 React、Vue、Angular 任意一种技术栈；\n4、踏实靠谱，有强烈的自我驱动力、清晰的逻辑思考能力、良好的沟通协调推进能力。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_11",
+                    "name": "北京",
+                    "en_name": "Beijing",
+                    "location_type": null,
+                    "i18n_name": "北京",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659506830000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "R6711A",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "location_type": null,
+                        "i18n_name": "北京",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7127527355001784589",
+                    "job_id": "7127526150960318757",
+                    "title": "前端开发工程师-Pico",
+                    "sub_title": "",
+                    "address_id": "1720",
+                    "address": "中国大陆北京北京市海淀区海淀北二街6号普天大厦3层，邮编：100080 ",
+                    "city": {
+                        "city_code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "i18n_name": "北京"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：Pico是具备独立创新和研发创造能力的VR/AR团队，致力于为用户打造具有优秀体验的VR产品与内容生态，在前沿技术上有丰富的积累。我们相信VR/AR能为人们带来更丰富的感知和交互体验，改变我们感知和思考这个世界的方式。我们期待着和你，在Pico，一起探索，一起“激发创造、丰富生活”。\n\n1、负责Pico前端部分开发工作，包括Web、Hybrid、跨端、Node等业务场景；\n2、负责VR设备、智能硬件、用户侧相关前端系统和平台的前端开发工作；\n3、参与相关系统的方案设计、需求把控、拆解细化和实施开发，支撑Pico业务和VR生态快速发展；\n4、参与团队前端工程化体系建设，技术攻关，探索和优化前端团队的开发模式和流程规范，通过前端技术的不断产出驱动业务的发展。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机、软件工程等相关专业；\n2、有一定前端基础，熟悉 JS（TS）、CSS、HTTP 等前端技术；\n3、熟悉 React、Vue、Angular 任意一种技术栈；\n4、踏实靠谱，有强烈的自我驱动力、清晰的逻辑思考能力、良好的沟通协调推进能力。",
+                    "min_salary": 20,
+                    "max_salary": 30,
+                    "currency": 1,
+                    "head_count": 10,
+                    "crator_id": "6727420527830730244",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6688203349877081612",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659506830000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302982920",
+                        "name": "2-1",
+                        "en_name": "2-1",
+                        "i18n_name": "2-1",
+                        "active_status": 1,
+                        "order": 11
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "R6711A",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118410000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "1720",
+                            "name": "中国大陆北京北京市海淀区海淀北二街6号普天大厦3层，邮编：100080 ",
+                            "en_name": "海淀北二街6号普天大厦3层, Haidian, Beijing, Beijing, Chinese mainland, 100080 ",
+                            "district": {
+                                "district_code": "DS_2",
+                                "name": "海淀区",
+                                "en_name": "Haidian",
+                                "i18n_name": "海淀区"
+                            },
+                            "city": {
+                                "city_code": "CT_11",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "state": {
+                                "state_code": "ST_8",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆北京北京市海淀区海淀北二街6号普天大厦3层，邮编：100080 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_11",
+                            "name": "北京",
+                            "en_name": "Beijing",
+                            "i18n_name": "北京"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7126840124776483085",
+                "title": "前端开发工程师-幸福里",
+                "sub_title": "",
+                "description": "团队介绍：幸福里是集内容、社区、工具于一体的房产信息与服务平台。产品基于个性化推荐引擎向用户推荐优质的房产内容和全面、真实的房源信息，致力于为用户提供全面、专业、可靠的购房决策支持。\n\n1、负责字节跳动-房产业务h5、小程序、PC系统的维护与开发；\n2、负责推动与优化业务线中前端基础架构、组件抽象；\n3、积极推动改进产品，包括技术、用户体验、产品等各个维度。",
+                "requirement": "1、2023届获得本科及以上学历，计算机、通信相关专业优先；\n2、计算机基础扎实：数据结构、算法、操作系统；\n3、熟悉javascript语言特性、css中常见布局方式、以及CSS3动画技术；\n4、熟悉VUE或React技术；\n5、有计算机类相关竞赛（如ACM）且获奖者优先；\n6、具较强的学习能力、主动、自驱、有责任心。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_11",
+                    "name": "北京",
+                    "en_name": "Beijing",
+                    "location_type": null,
+                    "i18n_name": "北京",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659346864000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "X4678",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "location_type": null,
+                        "i18n_name": "北京",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7126840124776483085",
+                    "job_id": "7126840124775942413",
+                    "title": "前端开发工程师-幸福里",
+                    "sub_title": "",
+                    "address_id": "1137",
+                    "address": "中国大陆北京北京市海淀区花园东路19号中兴大厦1层，邮编：100191 ",
+                    "city": {
+                        "city_code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "i18n_name": "北京"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：幸福里是集内容、社区、工具于一体的房产信息与服务平台。产品基于个性化推荐引擎向用户推荐优质的房产内容和全面、真实的房源信息，致力于为用户提供全面、专业、可靠的购房决策支持。\n\n1、负责字节跳动-房产业务h5、小程序、PC系统的维护与开发；\n2、负责推动与优化业务线中前端基础架构、组件抽象；\n3、积极推动改进产品，包括技术、用户体验、产品等各个维度。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机、通信相关专业优先；\n2、计算机基础扎实：数据结构、算法、操作系统；\n3、熟悉javascript语言特性、css中常见布局方式、以及CSS3动画技术；\n4、熟悉VUE或React技术；\n5、有计算机类相关竞赛（如ACM）且获奖者优先；\n6、具较强的学习能力、主动、自驱、有责任心。",
+                    "min_salary": 20,
+                    "max_salary": 30,
+                    "currency": 1,
+                    "head_count": 4,
+                    "crator_id": "6910009855201773069",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "7033662825331426847",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659346864000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302982920",
+                        "name": "2-1",
+                        "en_name": "2-1",
+                        "i18n_name": "2-1",
+                        "active_status": 1,
+                        "order": 11
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "X4678",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118408000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "1137",
+                            "name": "中国大陆北京北京市海淀区花园东路19号中兴大厦1层，邮编：100191 ",
+                            "en_name": "花园东路19号中兴大厦1层, Haidian, Beijing, Beijing, Chinese mainland, 100191 ",
+                            "district": {
+                                "district_code": "DS_2",
+                                "name": "海淀区",
+                                "en_name": "Haidian",
+                                "i18n_name": "海淀区"
+                            },
+                            "city": {
+                                "city_code": "CT_11",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "state": {
+                                "state_code": "ST_8",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆北京北京市海淀区花园东路19号中兴大厦1层，邮编：100191 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_11",
+                            "name": "北京",
+                            "en_name": "Beijing",
+                            "i18n_name": "北京"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "7126834439400966437",
+                "title": "前端开发工程师-Data",
+                "sub_title": "",
+                "description": "团队介绍：字节跳动Data研发部门，负责公司产品线的推荐、广告、系统架构、大数据和开放平台等技术。\n\n1、负责前端技术选型和开发工作；\n2、优化前端功能设计，解决各种浏览器和终端设备的兼容性问题；\n3、通过技术手段，提升用户体验并满足高性能要求；\n4、通用组件、类库编写，提升开发效率和质量。",
+                "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、精通HTML、CSS、JS，熟悉页面架构和布局，熟悉HTML5/CSS3等常用技术；\n3、熟悉常用UI框架（如bootstrap/pure/kendo等)；\n4、精通JavaScript、AJAX、DOM、jQuery等技术；\n5、熟悉NodeJS，熟练使用Grunt、Gulp、Webpack等构建工具；\n6、具备MVVM框架开发经验，如React、VueJS、AngularJS等；\n7、良好的沟通和团队协作能力、热爱技术、责任心强、能推动技术框架的落地使用。",
+                "job_category": {
+                    "id": "6704215886108035339",
+                    "name": "前端",
+                    "en_name": "Frontend",
+                    "i18n_name": "前端",
+                    "depth": 2,
+                    "parent": {
+                        "id": "6704215862603155720",
+                        "name": "研发",
+                        "en_name": "R\u0026D",
+                        "i18n_name": "研发",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null
+                    },
+                    "children": null
+                },
+                "city_info": {
+                    "code": "CT_11",
+                    "name": "北京",
+                    "en_name": "Beijing",
+                    "location_type": null,
+                    "i18n_name": "北京",
+                    "py_name": null
+                },
+                "recruit_type": {
+                    "id": "201",
+                    "name": "正式",
+                    "en_name": "Regular",
+                    "i18n_name": "正式",
+                    "depth": 2,
+                    "parent": {
+                        "id": "2",
+                        "name": "校招",
+                        "en_name": "Campus",
+                        "i18n_name": "校招",
+                        "depth": 1,
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "children": null,
+                    "active_status": 1
+                },
+                "publish_time": 1659345498000,
+                "job_hot_flag": 2,
+                "job_subject": {
+                    "id": "7111884057764448548",
+                    "name": {
+                        "zh_cn": "2023届秋招项目",
+                        "en_us": null,
+                        "i18n": "2023届秋招项目"
+                    },
+                    "limit_count": 2,
+                    "active_status": 1
+                },
+                "code": "X1690",
+                "department_id": null,
+                "job_function": null,
+                "job_process_id": "20000",
+                "recommend_id": null,
+                "city_list": [
+                    {
+                        "code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "location_type": null,
+                        "i18n_name": "北京",
+                        "py_name": null
+                    }
+                ],
+                "job_post_info": {
+                    "id": "7126834439400966437",
+                    "job_id": "7126834442975021325",
+                    "title": "前端开发工程师-Data",
+                    "sub_title": "",
+                    "address_id": "26",
+                    "address": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                    "city": {
+                        "city_code": "CT_11",
+                        "name": "北京",
+                        "en_name": "Beijing",
+                        "i18n_name": "北京"
+                    },
+                    "education": null,
+                    "experience": 2,
+                    "description": "团队介绍：字节跳动Data研发部门，负责公司产品线的推荐、广告、系统架构、大数据和开放平台等技术。\n\n1、负责前端技术选型和开发工作；\n2、优化前端功能设计，解决各种浏览器和终端设备的兼容性问题；\n3、通过技术手段，提升用户体验并满足高性能要求；\n4、通用组件、类库编写，提升开发效率和质量。",
+                    "requirement": "1、2023届获得本科及以上学历，计算机相关专业；\n2、精通HTML、CSS、JS，熟悉页面架构和布局，熟悉HTML5/CSS3等常用技术；\n3、熟悉常用UI框架（如bootstrap/pure/kendo等)；\n4、精通JavaScript、AJAX、DOM、jQuery等技术；\n5、熟悉NodeJS，熟练使用Grunt、Gulp、Webpack等构建工具；\n6、具备MVVM框架开发经验，如React、VueJS、AngularJS等；\n7、良好的沟通和团队协作能力、热爱技术、责任心强、能推动技术框架的落地使用。",
+                    "min_salary": 20,
+                    "max_salary": 30,
+                    "currency": 1,
+                    "head_count": 50,
+                    "crator_id": "6808653805765559822",
+                    "expiry_time": null,
+                    "progress": null,
+                    "department_id": "6688203000848254468",
+                    "job_type": {
+                        "id": "6704215886108035339",
+                        "name": "前端",
+                        "en_name": "Frontend",
+                        "i18n_name": "前端",
+                        "depth": 2,
+                        "parent": {
+                            "id": "6704215862603155720",
+                            "name": "研发",
+                            "en_name": "R\u0026D",
+                            "i18n_name": "研发",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null
+                        },
+                        "children": null
+                    },
+                    "recruitment_type": {
+                        "id": "201",
+                        "name": "正式",
+                        "en_name": "Regular",
+                        "i18n_name": "正式",
+                        "depth": 2,
+                        "parent": {
+                            "id": "2",
+                            "name": "校招",
+                            "en_name": "Campus",
+                            "i18n_name": "校招",
+                            "depth": 1,
+                            "parent": null,
+                            "children": null,
+                            "active_status": 1
+                        },
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "job_process_time": null,
+                    "job_in_charge_user_id": null,
+                    "biz_create_time": 1659345498000,
+                    "HighlightList": null,
+                    "JobChannelPublishList": null,
+                    "required_degree": 6,
+                    "never_expiry": null,
+                    "job_hot_flag": 2,
+                    "subject": {
+                        "id": "7111884057764448548",
+                        "name": {
+                            "name": "2023届秋招项目",
+                            "en_name": null,
+                            "i18n_name": "2023届秋招项目"
+                        },
+                        "creator": null,
+                        "active_status": 1,
+                        "biz_create_time": 1655864651000,
+                        "most_related_process_id": null,
+                        "is_related_with_multi_process": null,
+                        "job_count_of_most_related_process": null,
+                        "managers": null,
+                        "application_limit": 2,
+                        "job_count": null,
+                        "process_type": null
+                    },
+                    "sequence": {
+                        "id": "6740643069304146184",
+                        "name": "技术",
+                        "en_name": "RD",
+                        "i18n_name": "技术",
+                        "parent": null,
+                        "children": null,
+                        "active_status": 1
+                    },
+                    "min_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "max_level": {
+                        "id": "6740643069302966536",
+                        "name": "1-2",
+                        "en_name": "1-2",
+                        "i18n_name": "1-2",
+                        "active_status": 1,
+                        "order": 8
+                    },
+                    "job_post_object_value_map": {},
+                    "code": "X1690",
+                    "job_active_status": 1,
+                    "job_process_type": 2,
+                    "biz_modify_time": 1660118407000,
+                    "job_function": null,
+                    "job_process": null,
+                    "job_process_id": "20000",
+                    "job_category": 1,
+                    "address_list": [
+                        {
+                            "id": "26",
+                            "name": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                            "en_name": "北三环西路43号中航广场1号楼（矮楼）, Haidian, Beijing, Beijing, Chinese mainland, 100089 ",
+                            "district": {
+                                "district_code": "DS_2",
+                                "name": "海淀区",
+                                "en_name": "Haidian",
+                                "i18n_name": "海淀区"
+                            },
+                            "city": {
+                                "city_code": "CT_11",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "state": {
+                                "state_code": "ST_8",
+                                "name": "北京",
+                                "en_name": "Beijing",
+                                "i18n_name": "北京"
+                            },
+                            "country": {
+                                "country_code": "CN_1",
+                                "name": "中国大陆",
+                                "en_name": "Chinese Mainland",
+                                "i18n_name": "中国大陆"
+                            },
+                            "i18n_name": "中国大陆北京北京市海淀区北三环西路43号中航广场1号楼（矮楼），邮编：100089 ",
+                            "active_status": 1
+                        }
+                    ],
+                    "city_list": [
+                        {
+                            "city_code": "CT_11",
+                            "name": "北京",
+                            "en_name": "Beijing",
+                            "i18n_name": "北京"
+                        }
+                    ]
+                }
+            }
+        ],
+        "count": 20,
+        "extra": "{\"fe_tracking\":{\"log_id\":\"202208101658360101501650140527F789\",\"query_length\":0,\"total\":20}}"
+    },
+    "message": "ok",
+    "error": null
+}

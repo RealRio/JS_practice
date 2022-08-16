@@ -31,7 +31,6 @@ function curryingAdd(...args) {
     }
     return _adder;
   }
-
   console.log(curryingAdd(1, 2)(3, 4)(5));
 
 

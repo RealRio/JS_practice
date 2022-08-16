@@ -1,18 +1,17 @@
 function divide(sum,n){
     let plusSum=sum*100;
-    let res=new Array(n).fill(1);
-    plusSum-=n;
+    let res=new Array(n).fill(0);
     for(let i=0;i<n-1;i++){
-        let num1=Math.random()*plusSum;
+        let avg=plusSum/n;
+        let num1=1+Math.random()*(2*avg);
         num1=Math.round(num1);
-        res[i]+=num1;
-        res[i]=res[i]/100;
+        res[i]=num1/100;
         plusSum=plusSum-num1;
     }
-    res[n-1]=(plusSum+res[n-1])/100;
+    res[n-1]=plusSum/100;
     return res;
 }
-console.log(divide(200,20));
+console.log(divide(100,3));
 // var nextPermutation = function(nums) {
 //     for(let i=nums.length-1;i>=0;i--)
 //         for(let j=nums.length-1;j>i;j--){
