@@ -16,6 +16,11 @@ export function applyMiddleware(middleware) {
   
     } 
 }
+function createStore(reducer,enhencer){
+  if(enhencer)
+    return enhencer(createStore)(reducer)
+}
+
   //thunk
   function createThunkMiddleware(extraArgument) {
     return ({ dispatch, getState }) => next => action => {

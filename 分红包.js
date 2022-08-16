@@ -11,7 +11,7 @@ function divide(sum,n){
     res[n-1]=plusSum/100;
     return res;
 }
-console.log(divide(100,3));
+console.log(divide(200,20));
 // var nextPermutation = function(nums) {
 //     for(let i=nums.length-1;i>=0;i--)
 //         for(let j=nums.length-1;j>i;j--){

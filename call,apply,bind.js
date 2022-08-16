@@ -21,7 +21,7 @@ Function.prototype.mybind = function (obj,...args) {
         obj = window || globalThis;
     let fn=this;
     return function F(){
-        if(this instanceof F)
+        if(new.target)
             return new fn(...args,...arguments);
         return fn.apply(obj,args.concat(arguments))
     }
