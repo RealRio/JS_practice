@@ -10,3 +10,4 @@ function format(n){
     console.log(str);
 }
 format(10000000);
+
